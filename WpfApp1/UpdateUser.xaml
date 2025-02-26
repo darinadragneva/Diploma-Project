@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfApp1.UpdateUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="VSK" Height="540" Width="960" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" >
+    <Grid>
+        <Image Source="C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\money_background.jpg" Stretch="UniformToFill" />
+        <Label x:Name="label2" Foreground="LightSkyBlue" Content="Потребителско име:" HorizontalAlignment="Left" Margin="63,128,0,0" VerticalAlignment="Top" Height="34" Width="170" FontSize="16"/>
+        <TextBox x:Name="textBox1" Background="LightSkyBlue" FontSize="14" HorizontalAlignment="Left" Margin="245,130,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30" TextChanged="textBox1_TextChanged"/>
+        <Label x:Name="label3" Foreground="LightSkyBlue" Content="Нова парола:" HorizontalAlignment="Left" Margin="63,208,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.058,0.225" Height="34" Width="170" FontSize="16"/>
+        <PasswordBox x:Name="passwordBox1" Background="LightSkyBlue" PasswordChar='*' FontSize="14" HorizontalAlignment="Left" Margin="245,210,0,0" VerticalAlignment="Top" Width="200" Height="30" PasswordChanged="passwordBox1_PasswordChanged"/>
+        <Label x:Name="label4" Foreground="LightSkyBlue" Content="Повтори паролата:" HorizontalAlignment="Left" Margin="63,247,0,0" VerticalAlignment="Top" Height="36" Width="170" FontSize="16"/>
+        <PasswordBox x:Name="passwordBox2" Background="LightSkyBlue" PasswordChar='*' FontSize="14" HorizontalAlignment="Left" Margin="245,250,0,0" VerticalAlignment="Top" Width="200" Height="30" PasswordChanged="passwordBox2_PasswordChanged" />
+        <Label x:Name="label5" Foreground="LightSkyBlue" Content="Имейл:" HorizontalAlignment="Left" Margin="63,287,0,0" VerticalAlignment="Top" Height="36" Width="170" FontSize="16"/>
+        <TextBox x:Name="textBox2" FontSize="14" Background="LightSkyBlue" HorizontalAlignment="Left" Margin="245,290,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30" TextChanged="textBox2_TextChanged" />
+        <Label x:Name="label6" Content="Дата на раждане:" Foreground="LightSkyBlue" HorizontalAlignment="Left" Margin="498,128,0,0" VerticalAlignment="Top" Height="34" Width="170" FontSize="16"/>
+        <DatePicker x:Name="dateTimePicker1" Background="LightSkyBlue" FontSize="14" HorizontalAlignment="Left" Margin="686,130,0,0" VerticalAlignment="Top" Width="200" Height="30" SelectedDateChanged="dateTimePicker1_SelectedDateChanged" />
+        <Label x:Name="label7" Content="Телефон:" Foreground="LightSkyBlue" HorizontalAlignment="Left" Margin="498,168,0,0" VerticalAlignment="Top" Height="35" Width="170" FontSize="16"/>
+        <TextBox x:Name="textBox3" FontSize="14" Background="LightSkyBlue" HorizontalAlignment="Left" Margin="686,170,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30" TextChanged="textBox3_TextChanged" />
+        <Label x:Name="label8" Content="Адрес:" Foreground="LightSkyBlue" HorizontalAlignment="Left" Margin="498,208,0,0" VerticalAlignment="Top" Height="34" Width="170" FontSize="16"/>
+        <TextBox x:Name="textBox4" FontSize="14" Background="LightSkyBlue" HorizontalAlignment="Left" Margin="686,210,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30" TextChanged="textBox4_TextChanged" />
+        <Label x:Name="label9" Content="Име:" Foreground="LightSkyBlue" HorizontalAlignment="Left" Margin="498,0,0,0" VerticalAlignment="Center" Height="34" Width="170" FontSize="16"/>
+        <TextBox x:Name="textBox5" FontSize="14" Background="LightSkyBlue" HorizontalAlignment="Left" Margin="686,250,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30" TextChanged="textBox5_TextChanged" />
+        <Label x:Name="label10" Content="Фамилия:" Foreground="LightSkyBlue" HorizontalAlignment="Left" Margin="498,288,0,0" VerticalAlignment="Top" Height="34" Width="170" FontSize="16"/>
+        <TextBox x:Name="textBox6" FontSize="14" Background="LightSkyBlue" HorizontalAlignment="Left" Margin="686,290,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="200" Height="30" TextChanged="textBox6_TextChanged" />
+        <Label x:Name="label11" Content="Позиция:" Foreground="LightSkyBlue" HorizontalAlignment="Left" Margin="498,326,0,0" VerticalAlignment="Top" FontSize="16" Height="35" Width="170"/>
+        <ComboBox x:Name="comboBox1" ItemsSource="{Binding DataItems}" Background="LightSkyBlue" FontSize="14" HorizontalAlignment="Left" Margin="686,330,0,0" VerticalAlignment="Top" Width="200" Height="30" SelectionChanged="comboBox1_SelectionChanged" />
+        <Button x:Name="button1" Background="LightSkyBlue" Content="Обнови" HorizontalAlignment="Center" Height="39" Margin="0,429,0,0" VerticalAlignment="Top" Width="138" FontSize="18" Click="button1_Click" />
+        <Label x:Name="label3_Copy" Foreground="LightSkyBlue" Content="Текуща парола:" HorizontalAlignment="Left" Margin="63,168,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.058,0.225" Height="34" Width="170" FontSize="16"/>
+        <PasswordBox x:Name="passwordBox3" Background="LightSkyBlue" PasswordChar='*' FontSize="14" HorizontalAlignment="Left" Margin="245,170,0,0" VerticalAlignment="Top" Width="200" Height="30" PasswordChanged="passwordBox3_PasswordChanged"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,259 @@
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\x64\pdfium.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\x86\pdfium.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.exe
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.dll.config
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.deps.json
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.pdb
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\ControlzEx.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\HarfBuzzSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Humanizer.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.barcodes.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.forms.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.io.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.kernel.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.layout.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.pdfa.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.sign.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.svg.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\bc-fips-1.0.2.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\bcpkix-fips-1.0.2.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.bouncy-castle-fips-adapter.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.commons.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.html2pdf.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\MahApps.Metro.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\SkiaSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\SkiaSharp.HarfBuzz.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Compression.Base.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Compression.Portable.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.EJ2.PdfViewer.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Pdf.Portable.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Pdf.Base.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.PdfViewer.Windows.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.PdfViewer.WPF.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Shared.Base.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.SkiaSharpHelper.Portable.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddClient.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddDivision.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddLoan.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddPayment.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\LogIn.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MainWindow.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindow.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForAdmin.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForCashier.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForChairman.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\Report1.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\SignUp.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\UpdateDivision.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\UpdateUser.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\App.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddClient.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddDivision.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddLoan.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddPayment.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\LogIn.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MainWindow.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindow.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForAdmin.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForCashier.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForChairman.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\Report1.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\SignUp.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\UpdateDivision.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\UpdateUser.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.g.resources
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.pdb
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\x64\pdfium.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\x86\pdfium.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.exe
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.dll.config
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.deps.json
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\WpfApp1.pdb
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\ControlzEx.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\HarfBuzzSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Humanizer.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.barcodes.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.bouncy-castle-connector.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.forms.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.io.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.kernel.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.layout.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.pdfa.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.sign.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.styledxmlparser.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.svg.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.bouncy-castle-adapter.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\bc-fips-1.0.2.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\bcpkix-fips-1.0.2.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.bouncy-castle-fips-adapter.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.commons.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\itext.html2pdf.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\MahApps.Metro.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\SkiaSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\SkiaSharp.HarfBuzz.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Compression.Base.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Compression.Portable.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.EJ2.PdfViewer.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Pdf.Portable.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Pdf.Base.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.PdfViewer.Windows.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.PdfViewer.WPF.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Shared.Base.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\Syncfusion.SkiaSharpHelper.Portable.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\bin\x64\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddClient.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddDivision.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddLoan.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddPayment.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\LogIn.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MainWindow.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindow.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForAdmin.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForCashier.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForChairman.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\Report1.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\SignUp.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\UpdateDivision.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\UpdateUser.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\App.g.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddClient.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddDivision.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddLoan.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\AddPayment.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\LogIn.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MainWindow.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindow.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForAdmin.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForCashier.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\MenuWindowForChairman.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\Report1.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\SignUp.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\UpdateDivision.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\UpdateUser.baml
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.g.resources
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.pdb
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\ref\WpfApp1.dll

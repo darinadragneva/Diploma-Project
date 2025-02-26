@@ -1,0 +1,20 @@
+﻿WpfApp1
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\obj\x64\Debug\net6.0-windows\
+WpfApp1
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\UNIVERSITY\4 kurs\2 semestur\Дипломна работа\МОЯТА СЛАДУРСКА ДИПЛОМНА РАБОТА\WpfApp1\WpfApp1\App.xaml
+141239410265
+
+36-449911337
+252820646585
+AddClient.xaml;AddDivision.xaml;AddLoan.xaml;AddPayment.xaml;LogIn.xaml;MainWindow.xaml;MenuWindow.xaml;MenuWindowForAdmin.xaml;MenuWindowForCashier.xaml;MenuWindowForChairman.xaml;Report1.xaml;SignUp.xaml;UpdateDivision.xaml;UpdateUser.xaml;
+
+False
+

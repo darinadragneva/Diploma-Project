@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp1.UpdateDivision"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="VSK" Height="500" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Name="label1" Content="Име на поделението:" FontSize="14" HorizontalAlignment="Left" Margin="29,126,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="textBox1" FontSize="14" HorizontalAlignment="Left" Margin="181,129,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200"/>
+        <Label Name="label2" FontSize="14" Content="Лихва:" HorizontalAlignment="Left" Margin="127,177,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="textBox2" FontSize="14" HorizontalAlignment="Left" Margin="181,179,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="43"/>
+        <Button Name="button1" FontSize="14" Content="Обнови" HorizontalAlignment="Left" Margin="110,381,0,0" VerticalAlignment="Top" Height="40" Width="184" Click="button1_Click"/>
+        <Label Content="%" FontSize="14" HorizontalAlignment="Left" Margin="229,175,0,0" VerticalAlignment="Top" Width="25"/>
+
+
+    </Grid>
+</Window>

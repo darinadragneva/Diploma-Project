@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddClient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddDivision.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddLoan.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AddPayment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LogIn.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MenuWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MenuWindowForAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MenuWindowForCashier.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MenuWindowForChairman.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Report1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SignUp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UpdateDivision.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UpdateUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddClient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddDivision.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddLoan.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AddPayment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LogIn.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MenuWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MenuWindowForAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MenuWindowForCashier.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MenuWindowForChairman.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Report1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SignUp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UpdateDivision.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UpdateUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

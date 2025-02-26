@@ -1,0 +1,11 @@
+# Ignore Visual Studio temporary files
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.ilk
+*.log
+*.nupkg
+packages/
